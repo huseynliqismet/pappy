@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgba(245, 245, 247, 0.6);
+}
+
+.shop-page {
+  margin-top: 20px;
+  .shop-list {
+    .list-icon {
+        font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+color: rgba(90, 94, 100, 0.6);
+      i {
+        width: 14px;
+        height: 13px;
+        font-size: 14px;
+      }
+      .fa-solid {
+        margin: 0 15px;
+      }
+     &#foot{
+        color: rgba(25, 26, 27, 0.6);
+      }
+    }
+  }
+}
+// -------------------
+.sliders{
+    border: 1px solid red;
+    margin-top: 20vh;
+    align-items: center;
+    .panda{
+    }
+    .cat-food{
+        border: 1px solid green;
+        width: 100%;
+     background: url(/image/5286046\ 1.png);
+     background-position: center center;
+     background-repeat: no-repeat;
+     width:215px;
+     height: 259px;
+     position: relative;
+     border-radius: 16px;
+     
+     .price{
+        position: absolute;
+        top: 15px;
+        right: 20px;
+h2{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    color: #24A9E1;
+}
+     }
+    }
+}
